@@ -28,7 +28,7 @@
 - **Edward J. Hu et al. (2021).**  
     LoRA: Low-Rank Adaptation of Large Language Models._ ICLR.  
     
-## 🔹 Retrieval-Augmented Generation (RAG)
+## Retrieval-Augmented Generation (RAG)
 
 - **Patrick Lewis et al. (2020).**  
     Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks._ NeurIPS.
@@ -36,13 +36,13 @@
 - **Vladimir Karpukhin et al. (2020).**  
     Dense Passage Retrieval for Open-Domain Question Answering._ EMNLP.
 
-## 🔹 QA Datasets
+## QA Datasets
 
 - **Pranav Rajpurkar et al. (2016).**  
     SQuAD: 100,000+ Questions for Machine Comprehension of Text._ EMNLP.
 
 
-# 🔹 Résumé automatique
+# Résumé automatique
 
 - **Chin-Yew Lin (2004).**  
     ROUGE: A Package for Automatic Evaluation of Summaries._ ACL Workshop.  
