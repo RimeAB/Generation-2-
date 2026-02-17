@@ -57,8 +57,8 @@
 - **OpenAI (2022).**  
     Training language models to follow instructions with human feedback
 
-- **Alexander R. Fabbri et al. (2019). **
+- **Alexander R. Fabbri et al. (2019).**
 	Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model]
 	
-- **Congbo Ma et al. (2023). **
+- **Congbo Ma et al. (2023).**
 	Multi-document Summarization via Deep Learning Techniques: A Survey.
